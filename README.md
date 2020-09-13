@@ -4,7 +4,7 @@
 
 2.輸入bot_token和chat_id.
 
-3.| 系統 | 工作排程 |
-  | --- | --- |
-  | Linux | crontab |
-  | Windows | Task Scheduler |
+| 系統 | 工作排程 |
+| --- | --- |
+| Linux | crontab |
+| Windows | Task Scheduler |
