@@ -4,6 +4,8 @@
   > 查看chatid，可將群組或頻道內之訊息轉傳給[GetIDs Bot](https://t.me/getidsbot)
 
 * 輸入bot_token和chat_id。
+```
+```
 
 * 設定例行性工作排程。
 
