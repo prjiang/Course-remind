@@ -5,8 +5,8 @@
 
 * 輸入bot_token和chat_id。
 ```
-  bot_token = ''
-  chat_id = ''
+    bot_token = ''
+    chat_id = ''
 ```
 
 * 設定例行性工作排程。
