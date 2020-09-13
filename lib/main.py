@@ -29,8 +29,8 @@ def notice(day):
             if localtime.tm_hour==calltime[i][0][0] and localtime.tm_min==calltime[i][1][0] :
                 r = requests.get('https://api.telegram.org/bot'+bot_token+'/sendMessage?chat_id='+chat_id+'&text='+str(course[day][i][0]))
                 
-                sleep(1740) # 執行後，過1740sec 跳出迴圈
-        sleep(60)   # 每60sec 偵測一次
+                sleep(70) 
+        sleep(50)   
         if(localtime.tm_hour>14):
             break
 
