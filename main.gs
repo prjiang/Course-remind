@@ -48,7 +48,11 @@ function identificar(e){
   console.log(String(e.message.chat.id))
   return mensaje
 }
-
+//=========================================================================================================================
 // https://api.telegram.org/botToken/setWebhook?url=Current web app URL
 // Token記得更換，部屬為網頁應用程式後，Copy Current web app URL, 貼上上方URL，並前往該URL以啟用Webhook!
+
+// 查看getUpdates須刪除Webhook。
+// 若要刪除Webhook，前往 https://api.telegram.org/botToken/deleteWebhook?url=Current web app URL
+
 //=========================================================================================================================
