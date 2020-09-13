@@ -6,7 +6,7 @@
 
 3. 設定例行性工作排程。
 
-> | 系統 | 工作排程 |
-> | --- | --- |
-> | Linux | crontab |
-> | Windows | Task Scheduler |
+ | 系統 | 工作排程 |
+ | --- | --- |
+ | Linux | crontab |
+ | Windows | Task Scheduler |
