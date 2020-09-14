@@ -2,7 +2,7 @@
 
 ### Bot
 <div align="center">
- <img src="img/picbot.jpg" height="20%" width="20%">
+ <img src="img/picbot.png">
  </div>
 
 ## Usage
