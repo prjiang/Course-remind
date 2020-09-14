@@ -1,6 +1,6 @@
 # Course-remind
 
-## Example
+### Example
 
 ## Usage
  向Telegram的BotFather申請token，將bot加入你的群組或頻道裡，取得群組或頻道的chatid。
