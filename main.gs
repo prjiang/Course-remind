@@ -37,7 +37,7 @@ function identificar(e){
     }  
   }
   
-    if(e.message.text.indexOf("/school") === 0){      
+  if(e.message.text.indexOf("/school") === 0){      
     var mensaje = {
       "method": "sendMessage",
       "chat_id": String(e.message.chat.id),
