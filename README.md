@@ -1,6 +1,8 @@
 # Course-remind
 
-<img src="img/pic.PNG" aligen="center">
+<div align="center">
+<img src="img/pic.PNG">
+</div>
 
 ## Usage
  向Telegram的BotFather申請token，將bot加入你的群組或頻道裡，取得群組或頻道的chatid。
