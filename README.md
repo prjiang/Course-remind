@@ -1,7 +1,7 @@
 # Course-remind
 
 <div align="center">
-<img src="img/pic.PNG">
+<img src="img/pic.PNG" height="50%" width="50%">
 </div>
 
 ## Usage
