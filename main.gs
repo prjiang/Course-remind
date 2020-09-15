@@ -45,6 +45,14 @@ function identificar(e){
     }
   }
   
+  if(e.message.text.indexOf("/monday") === 0){      
+    var mensaje = {
+      "method": "sendMessage",
+      "chat_id": String(e.message.chat.id),
+      "text": "課程：\n時間：\n教室：\n教授：",
+    }
+  }
+  
   console.log(String(e.message.chat.id))
   return mensaje
 }
