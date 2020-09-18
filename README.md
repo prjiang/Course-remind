@@ -1,5 +1,13 @@
 # Course-remind
 
+### Channel
+
+<div align="center">
+<img src="img/channel.png" height="70%" width="70%">
+</div>
+
+### Bot
+
 <div align="center">
 <img src="img/bot.png" height="70%" width="70%">
 </div>
