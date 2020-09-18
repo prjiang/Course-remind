@@ -12,6 +12,8 @@
 <img src="img/picbot.png" height="70%" width="70%">
 </div>
 
+<hr>
+
 ## Usage
  向Telegram的BotFather申請token，將bot加入你的群組或頻道裡，取得群組或頻道的chatid。
   > 查看chatid，可將群組或頻道內之訊息轉傳給[GetIDs Bot](https://t.me/getidsbot)。
