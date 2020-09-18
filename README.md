@@ -3,13 +3,13 @@
 ### Channel
 
 <div align="center">
-<img src="img/channel.png" height="70%" width="70%">
+<img src="img/picchannel.png" height="70%" width="70%">
 </div>
 
 ### Bot
 
 <div align="center">
-<img src="img/bot.png" height="70%" width="70%">
+<img src="img/picbot.png" height="70%" width="70%">
 </div>
 
 ## Usage
