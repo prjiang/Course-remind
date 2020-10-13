@@ -3,7 +3,7 @@
 ### Channel
 
 <div align="center">
-![img](./img/picchannel.png)
+ <img src="img/picchannel.png" height="70%" width="70%">
 </div>
 
 ### Bot
